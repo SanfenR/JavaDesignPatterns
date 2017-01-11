@@ -3,8 +3,6 @@ package builder;
 /**
  * Created by sanfen on 2016/12/26.
  *
- * 构建器模式(Builder Pattern)
- * 当参数过多的时候使用构建器
  *
  */
 public class Example {

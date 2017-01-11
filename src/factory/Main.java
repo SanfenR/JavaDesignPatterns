@@ -2,6 +2,7 @@ package factory;
 
 /**
  * Created by sanfen on 2016/12/26.
+ * 4种工厂模式
  */
 public class Main {
     public static void main(String[] args){
